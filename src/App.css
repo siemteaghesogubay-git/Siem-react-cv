@@ -110,6 +110,32 @@ body.dark .navbar {
   background: #1e1e1e;
 }
 
+
+/* =========================
+  FOOTER
+
+.social-icons {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.social-icons a {
+  color: #ccc;
+  font-size: 22px;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: white;
+}
+
+
+
+
+
+
 /* =========================
    HERO
 ========================= */
